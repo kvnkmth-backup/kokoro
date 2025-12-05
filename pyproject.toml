@@ -22,7 +22,7 @@ dependencies = [
     "loguru",
   # "git+https://github.com/kvnkmth-backup/misaki",
     "numpy",
-    "torch",
+   # "torch",
     "transformers"
 ]
 
